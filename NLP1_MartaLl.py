@@ -1,5 +1,5 @@
 ## Open in colab: https://colab.research.google.com/drive/1z1OpLn5DFvPwwKyIDNybRd_Gx9AdXVqi?usp=sharing ##
-#**Does Zipf’s Law of Abbreviation holds for (i) a particular genre of text in English that is not a novel?**
+##**Does Zipf’s Law of Abbreviation holds for (i) a particular genre of text in English that is not a novel?**
 
 print("Does Zipf’s Law of Abbreviation holds for a particular genre of text in
     English or German that is not a novel?")
