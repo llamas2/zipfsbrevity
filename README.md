@@ -1,4 +1,4 @@
-# Procesamiento del lenguaje natural. Ejecicio 1
+# Procesamiento del lenguaje natural. Ejercicio 1
 
 ## Descripción del ejercio:
 
@@ -15,4 +15,4 @@ Puede encontrar el informe emitido en este mismo repositorio en el directorio:
 
 El código fuente con el que se realizó el análisis:
 
-> `code/NLP1_MartaLl.py`
+> `Code/NLP1_MartaLl.py`
